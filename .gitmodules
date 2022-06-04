@@ -1,0 +1,3 @@
+[submodule "Cerelatis-core"]
+	path = Cerelatis-core
+	url = https://github.com/BuNaTin/Cerelatis-core
